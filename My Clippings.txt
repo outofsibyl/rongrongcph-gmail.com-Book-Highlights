@@ -47389,3 +47389,418 @@ When a) more money and credit are created (so there is more  spending) and b) pr
 
 在这里权力分配很明确：约翰负责创意，艾德负责技术，而乔布斯负责商业和财  务。他们彼此之间有一种绝对的信任，还有一人掌握最后的话语权（乔布斯）。 
 ==========
+Positional Option Trading An Advanced Guide (Euan Sinclair) (Z-Library) (Euan Sinclair)
+- Your Highlight on page 20 | Location 168-170 | Added on Sunday, 7 June 2026 16:09:48
+
+One of the things that distinguishes professionals from amateurs  in any field is that professionals use a consistent process. Trading  should be a process: find a situation with edge, structure a trade,  then control the risk. This book documents these steps. 
+==========
+Positional Option Trading An Advanced Guide (Euan Sinclair) (Z-Library) (Euan Sinclair)
+- Your Highlight on page 20 | Location 164-165 | Added on Sunday, 7 June 2026 16:11:59
+
+A very brief summary of  the theory of volatility trading is provided in Chapter One,
+==========
+Positional Option Trading An Advanced Guide (Euan Sinclair) (Z-Library) (Euan Sinclair)
+- Your Highlight on page 20 | Location 171-175 | Added on Sunday, 7 June 2026 16:12:05
+
+In Chapter Two, we look at the efficient market hypothesis and  show that the idea leaves plenty of room for the discovery of  profitable strategies. This insight lets us categorize these  “anomalies” as either inefficiencies or risk premia. These will  behave differently and should be traded differently. Next, we  briefly review how behavioral psychology can help us and also its  limitations. We examine two popular methodologies for finding  edges: technical analysis and fundamental analysis. 
+==========
+Positional Option Trading An Advanced Guide (Euan Sinclair) (Z-Library) (Euan Sinclair)
+- Your Highlight on page 20 | Location 171-175 | Added on Sunday, 7 June 2026 16:12:13
+
+In Chapter Two, we look at the efficient market hypothesis and  show that the idea leaves plenty of room for the discovery of  profitable strategies. This insight lets us categorize these  “anomalies” as either inefficiencies or risk premia. These will  behave differently and should be traded differently. Next, we  briefly review how behavioral psychology can help us and also its  limitations. We examine two popular methodologies for finding  edges: technical analysis and fundamental analysis.  Chapter Three looks at the general problem of forecasting.
+==========
+Positional Option Trading An Advanced Guide (Euan Sinclair) (Z-Library) (Euan Sinclair)
+- Your Highlight on page 21 | Location 179-182 | Added on Sunday, 7 June 2026 16:14:10
+
+The most important empirical fact that an option trader needs to  know is that implied volatility is usually overpriced. This  phenomenon is called the variance premium (or the volatility  premium). Chapter Four summarizes the variance premium in  indices, stocks, commodities, volatility indices, and bonds. We  also present reasons for its existence. 
+==========
+Positional Option Trading An Advanced Guide (Euan Sinclair) (Z-Library) (Euan Sinclair)
+- Your Highlight on page 21 | Location 179-184 | Added on Sunday, 7 June 2026 16:14:27
+
+The most important empirical fact that an option trader needs to  know is that implied volatility is usually overpriced. This  phenomenon is called the variance premium (or the volatility  premium). Chapter Four summarizes the variance premium in  indices, stocks, commodities, volatility indices, and bonds. We  also present reasons for its existence.  Having established the primacy of the variance premium, Chapter  Five gives eleven specific phenomena that can be profitably  traded. The observation is summarized, the evidence and reasons  for the effect are given, and a structure for trading the idea is  suggested. 
+==========
+Option Trading _ Pricing and Volatility Strategies and - Euan Sinclair (Euan Sinclair)
+- Your Highlight on page 2 | Location 2-3 | Added on Sunday, 7 June 2026 16:31:05
+
+Table of Contents
+==========
+加油吧，大脑！（日常用脑指南。解决人们生活中常见的40多个关于大脑的问题，读后让你能量满格、心平气和） (黄翔) (z-library.sk, 1lib.sk, z-lib.sk) (黄翔)
+- Your Highlight on page 3 | Location 6-7 | Added on Sunday, 7 June 2026 16:36:13
+
+目录
+==========
+大脑喜欢听你这样说 ([澳] 杰瑞德·库尼·霍瓦斯) (z-library.sk, 1lib.sk, z-lib.sk) (杰瑞德·库尼·霍瓦斯)
+- Your Highlight on page 5 | Location 11-11 | Added on Sunday, 7 June 2026 16:38:20
+
+目录
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 29 | Location 375-376 | Added on Monday, 8 June 2026 19:41:00
+
+在20世纪70年代末，也就是美国政治史和现代金融史上最放纵的年代刚刚开始的时候，
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 37 | Location 508-509 | Added on Tuesday, 9 June 2026 11:26:59
+
+只要后排成员保持中立，主讲人就算是控制了全局，前排的人早就弄清了整个形势。他们就像全世界任何地方坐在前排的人一样，有过之而无不及。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 63 | Location 894-895 | Added on Tuesday, 9 June 2026 12:36:42
+
+他教给我们鉴别市场信息真伪的方法，令我后来受用无穷：“知者不言，言者不知。”
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 72 | Location 1035-1037 | Added on Tuesday, 9 June 2026 13:13:23
+
+在交易厅里取得成功的人和我从前的想象大不一样。有些人真是令人感到可怕，打击别人抬高自己、捉弄女性、痛骂实习生。在他们眼中没有什么客户，只有落在自己手上的牺牲品。还有一些人则不然，可谓德才兼备。他们鼓励周围的人，对待自己的客户也很公平，对实习生则以礼相待。“
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 95 | Location 1378-1391 | Added on Wednesday, 10 June 2026 11:19:50
+
+货币交易毕竟也是交易。做这个活儿至少得有一只铁睾丸以及与债券交易一样的奇怪逻辑。试看：一个早上，多尔需要入市购买（借入）5000万美元。经过一番征询，他发现货币市场利率为4%~4.25%，这意味着他可以用4%的利率买入（借得）或在4.25%的利率卖出（借出）。然而，当他开始下单试图以4.25%的利率从市场上买入时，利率已经变成了4.25%~4.5%，大手笔的购入惊动了卖家。多尔报出了购买价：以4.5%的利率买入。市场又变了，这次变成了4.5%~4.75%。他再提高自己的买入价，情况又是一样，如此几番下来，结果没有丝毫改变。于是他跑到西蒙的办公室去诉苦，说他总也买不到需要的货币量。卖家们就像小鸡一样跑掉了。 “那你就当卖家好了。”西蒙说。 这回多尔成了卖家，尽管他应该是买家。他在5.5%的水平卖出5000万美元。接着，又在同一水平卖出同样的数额。正如西蒙所预料的那样，市场崩溃了。人人都想当卖家，场内再也没有一个买家。“现在买回来。”当市场跌到4%时，西蒙下了指令。多尔不仅在4%的价位上买到了他需要的5000万美元，而且从先前高价位卖出的生意中赚了钱。这就是所罗门兄弟债券交易师的思维方式。无论他要做什么，首要的事情就是放下这个念头。意念守一，然后感觉一下市场的脉动。如果市场躁动不安，场内人士饱受惊吓、灰心丧气，他会像牧羊人一样把他们带到一个安全的角落。然后，让他们为自己的不安支付代价。他就坐在市场里等着它吐出金币，只有到了这时他才开始考虑自己到市场来的目的。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Underline on page 96 | Location 1388-1391 | Added on Wednesday, 10 June 2026 11:20:07
+
+无论他要做什么，首要的事情就是放下这个念头。意念守一，然后感觉一下市场的脉动。如果市场躁动不安，场内人士饱受惊吓、灰心丧气，他会像牧羊人一样把他们带到一个安全的角落。然后，让他们为自己的不安支付代价。他就坐在市场里等着它吐出金币，只有到了这时他才开始考虑自己到市场来的目的。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 96 | Location 1393-1393 | Added on Wednesday, 10 June 2026 11:20:10
+
+约瑟夫的哥哥斯蒂芬·约瑟夫一起
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Circle on page 96 | Location 1393-1393 | Added on Wednesday, 10 June 2026 11:20:13
+
+约瑟夫的哥哥斯蒂芬·约瑟夫一起
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 96 | Location 1397-1402 | Added on Wednesday, 10 June 2026 11:38:05
+
+多尔心里有底了，这代表着未来的潮流。他认为购房需求的高涨将导致资金短缺。人口年龄在增长，人均住房面积迅速增加。整个国家越来越有钱，想买第二套房的人也会越来越多。储贷协会的发展满足不了对贷款的需求。他还注意到，人口从铁锈地带（Rust Belt）向阳光地带（Sun Belt）的稳定转移，导致了系统性不平衡。阳光地带的储贷业只能吸收到少量的存款，但购房者对贷款的需求却很高。多尔想出了一个解决的办法。通过购入阳光地带储贷协会的抵押债券，铁锈地带的储贷协会可以有效地把款项贷给阳光地带的购房者。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 114 | Location 1675-1695 | Added on Wednesday, 10 June 2026 12:15:59
+
+债券交易师倾向于把每一个交易日都看作是最后一个。在这种短视性格的支配下，他们一味放纵客户的弱点，毫不顾忌这样做可能对长期客户关系产生的影响。他们拿走可以拿走的一切，而孤注一掷的客户则在交易中处于下风，他们关心的是什么时候可以拿到钱而不是一共可以拿到多少钱。储贷协会的总裁们正是一群孤注一掷的客户。他们把帽子拿在手上，络绎不绝地来到所罗门兄弟公司的抵押交易厅。他们把自己的弱点表现得如此明显，还不如直接给所罗门兄弟公司开一张支票来得更痛快一些。 储贷协会头头们的无知让形势变得更糟。这些3–6–3俱乐部的成员从未在债券市场上摔打过，他们根本不懂该怎么玩“说谎者的扑克牌”游戏，他们也不了解自己要与之打交道的人的心理。他们不知道自己卖出去的东西究竟价值几何，甚至连自己手上的贷款合约的条款（年限、利率等）也所知甚少。储贷协会的经理们只知道一件事，那就是他们想卖到什么价钱。所罗门兄弟的交易师们注意到一件最不可思议的事情，不论这些人受到怎样的粗暴对待，下一次他们还会回来要求卖出更多的贷款。他们就像我在公司猎鸭活动中见到的那些鸭子，它们受到训练，在同一伙猎人面前反复出现，直到被打死为止。无须成为查尔斯·达尔文你就可以断定，这一物种肯定没有希望了。 交易师汤姆·迪那波里愉快地回忆起某个储贷协会总裁的来访。“他想卖出价值1亿美元的30年期贷款（利率不变），再用拿回来的现金买入价值1亿美元的别人的贷款，我告诉他我会为他自己的贷款出价（买入）75（每1美元贷款买入价75美分），然后报价（卖出）85卖给他别人的贷款。”面对这几个数字，储贷协会的老板开始挠头。他卖出去的贷款和买进来的贷款大同小异，但一进一出在收益上的差额意味着他要从口袋里掏出去1000万美元。或者，换个说法，储贷协会要为这笔交易向所罗门兄弟公司支付1000万美元的佣金。“听上去这可不像一桩好生意。”他说。迪那波里心里早有准备。“从经济学的角度来说，这当然不是一桩好买卖，”他说，“但你可以换个角度来看。如果你不这样做，就得丢饭碗。”旁边另一个交易师也在和一家储贷协会的总裁通话，他无意中听到迪那波里的话，几乎控制不住要笑出声来。这是他一整天里听到的最风趣的话。他可以想象电话那头那个家伙的样子，一副绝望的倒霉样。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 184 | Location 2753-2757 | Added on Thursday, 11 June 2026 11:26:14
+
+可怜的赫尔曼根本不知道我为什么会选中他。我提议一起吃午饭，他接受了。他是个高高的粗鲁的德国人，声调低得吓人，令人印象深刻，仿佛他生来就是为了交易。他自以为非常非常聪明。我的工作则是鼓励他对自己的这种看法，他越觉得自己聪明，交易也就越多。而他交易越多，他给我带来的生意就越多。他的银行授权他可以动用2000万美元投资资金。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 188 | Location 2814-2818 | Added on Thursday, 11 June 2026 11:30:19
+
+这种政策的唯一可能的辩解（如果你称之为辩解）是从我们的总裁汤姆·斯特劳斯口中无意间讲出来的，他自己以前就是政府债券推销员。有一次他同我的一位客户共进晚餐，其间东拉西扯提到了这个问题，他发表了自己的看法：“客户总是不长记性。”如果这就是所罗门兄弟公司在客户关系方面的指导原则，那么一切都很清楚了。只管耍弄你的客户，他们总会忘记的！就是这样。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 188 | Location 2814-2818 | Added on Thursday, 11 June 2026 11:30:23
+
+对这种政策的唯一可能的辩解（如果你称之为辩解）是从我们的总裁汤姆·斯特劳斯口中无意间讲出来的，他自己以前就是政府债券推销员。有一次他同我的一位客户共进晚餐，其间东拉西扯提到了这个问题，他发表了自己的看法：“客户总是不长记性。”如果这就是所罗门兄弟公司在客户关系方面的指导原则，那么一切都很清楚了。只管耍弄你的客户，他们总会忘记的！就是这样。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 191 | Location 2866-2868 | Added on Thursday, 11 June 2026 11:33:32
+
+对于我的职业生活来说，这可算不上一个好的开端。不到1个月的时间，我把自己第一个也是唯一的一个客户给弄丢了。谢天谢地，这样的人来源颇广。他们都符合交给“基克”打理的两条要求：首先，他们是小型投资人；其次，他们对所罗门兄弟公司极其敬畏，不管你说什么，他们都会深信不疑。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 192 | Location 2891-2893 | Added on Thursday, 11 June 2026 11:35:06
+
+我不禁想起在培训班时一位资深交易师对我们讲的一段恶毒话。有一位实习生试图给交易师留下印象，但没有成功。交易师是这样讲的：“你的表现证明了，有些人生来就是当客户的命。”“生来就是当客户的命”，后排的人曾经以为这是他们所听过的最滑稽的话。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 197 | Location 2971-2982 | Added on Thursday, 11 June 2026 12:16:36
+
+亚历山大思维的第二种模式是，当某种重大混乱出现时，例如股市崩溃、自然灾害或欧佩克限产协议破裂，他的反应不会局限于考虑投资者的当下利益，他还会考虑第二步和第三步的效果。 还记得切尔诺贝利事件吗？当苏联核反应堆爆炸的消息传来时，亚历山大拿起了电话。仅仅几分钟前，有关这次灾难的确认消息才反映在交易厅里的显示器上，但此刻亚历山大已经买下了足够装满两艘超级油轮的原油。他说，投资者的眼睛都盯着纽约证券交易所，特别是那些与原子能有关的公司，它们的价格垂直下跌。不要理睬它们，他说。他刚刚代表自己的客户买入了原油期货。他立刻就意识到，原子能供应的减少将导致原油需求的增加，他是正确的。他的投资者赚了一大笔钱，我的投资者也小赚了一笔。在我说服几个客户买入一些原油之后，亚历山大又打来了电话。 “买土豆，”他说，“赶快！”然后他就挂了。 这是理所当然的。放射性尘雾降落的前景威胁着欧洲的食品和饮水供应，包括土豆产品。因此，未受污染的美国产品的价格就会上升。也许除了土豆种植商之外，在美国还有几个家伙能在苏联核反应堆爆炸后几分钟内做出这样的
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 197 | Location 2971-2992 | Added on Thursday, 11 June 2026 12:16:43
+
+亚历山大思维的第二种模式是，当某种重大混乱出现时，例如股市崩溃、自然灾害或欧佩克限产协议破裂，他的反应不会局限于考虑投资者的当下利益，他还会考虑第二步和第三步的效果。 还记得切尔诺贝利事件吗？当苏联核反应堆爆炸的消息传来时，亚历山大拿起了电话。仅仅几分钟前，有关这次灾难的确认消息才反映在交易厅里的显示器上，但此刻亚历山大已经买下了足够装满两艘超级油轮的原油。他说，投资者的眼睛都盯着纽约证券交易所，特别是那些与原子能有关的公司，它们的价格垂直下跌。不要理睬它们，他说。他刚刚代表自己的客户买入了原油期货。他立刻就意识到，原子能供应的减少将导致原油需求的增加，他是正确的。他的投资者赚了一大笔钱，我的投资者也小赚了一笔。在我说服几个客户买入一些原油之后，亚历山大又打来了电话。 “买土豆，”他说，“赶快！”然后他就挂了。 这是理所当然的。放射性尘雾降落的前景威胁着欧洲的食品和饮水供应，包括土豆产品。因此，未受污染的美国产品的价格就会上升。也许除了土豆种植商之外，在美国还有几个家伙能在苏联核反应堆爆炸后几分钟内做出这样的反应，但我从没见过他们。 切尔诺贝利和石油的例子只不过是比较简单的一个。我们还玩一种叫作“如果……怎么样”的游戏。各种复杂的情境都可以纳入“如果……怎么样”的模式中去。比如说，你是一位掌管着几十亿美元资金的机构投资者。如果东京发生了大地震，你会怎么做？东京化为一片瓦砾，日本的投资者陷入了疯狂，他们抛售日元，把钱从日本股票市场中取出来。在这种情况下，你会怎样做？ 好了，按照第一种模式，亚历山大的做法是把资金投入日本市场，因为人人都在逃离，此时买入在价格上一定会很优惠。他想买的正是别人最不想要的日本证券。首先就是日本保险公司的股票。人们很可能会认为，普通保险公司这回该大赔特赔了，而事实上，这些风险的大部分已经分散给了西方保险公司和一家专门的日本地震保险公司，后者已经积累了几十年的赔付金。普通保险公司的股价其实很便宜。 接下来，亚历山大会买入几亿美元的日本政府债券。由于经济上的损失暂时无法弥补，政府将会降低利率以鼓励重建并且干脆命令银行按这个利率放贷。日本银行将像从前一样顺从政府的要求。低利率意味着债券价格将会上扬。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 197 | Location 2971-2999 | Added on Thursday, 11 June 2026 12:16:47
+
+亚历山大思维的第二种模式是，当某种重大混乱出现时，例如股市崩溃、自然灾害或欧佩克限产协议破裂，他的反应不会局限于考虑投资者的当下利益，他还会考虑第二步和第三步的效果。 还记得切尔诺贝利事件吗？当苏联核反应堆爆炸的消息传来时，亚历山大拿起了电话。仅仅几分钟前，有关这次灾难的确认消息才反映在交易厅里的显示器上，但此刻亚历山大已经买下了足够装满两艘超级油轮的原油。他说，投资者的眼睛都盯着纽约证券交易所，特别是那些与原子能有关的公司，它们的价格垂直下跌。不要理睬它们，他说。他刚刚代表自己的客户买入了原油期货。他立刻就意识到，原子能供应的减少将导致原油需求的增加，他是正确的。他的投资者赚了一大笔钱，我的投资者也小赚了一笔。在我说服几个客户买入一些原油之后，亚历山大又打来了电话。 “买土豆，”他说，“赶快！”然后他就挂了。 这是理所当然的。放射性尘雾降落的前景威胁着欧洲的食品和饮水供应，包括土豆产品。因此，未受污染的美国产品的价格就会上升。也许除了土豆种植商之外，在美国还有几个家伙能在苏联核反应堆爆炸后几分钟内做出这样的反应，但我从没见过他们。 切尔诺贝利和石油的例子只不过是比较简单的一个。我们还玩一种叫作“如果……怎么样”的游戏。各种复杂的情境都可以纳入“如果……怎么样”的模式中去。比如说，你是一位掌管着几十亿美元资金的机构投资者。如果东京发生了大地震，你会怎么做？东京化为一片瓦砾，日本的投资者陷入了疯狂，他们抛售日元，把钱从日本股票市场中取出来。在这种情况下，你会怎样做？ 好了，按照第一种模式，亚历山大的做法是把资金投入日本市场，因为人人都在逃离，此时买入在价格上一定会很优惠。他想买的正是别人最不想要的日本证券。首先就是日本保险公司的股票。人们很可能会认为，普通保险公司这回该大赔特赔了，而事实上，这些风险的大部分已经分散给了西方保险公司和一家专门的日本地震保险公司，后者已经积累了几十年的赔付金。普通保险公司的股价其实很便宜。 接下来，亚历山大会买入几亿美元的日本政府债券。由于经济上的损失暂时无法弥补，政府将会降低利率以鼓励重建并且干脆命令银行按这个利率放贷。日本银行将像从前一样顺从政府的要求。低利率意味着债券价格将会上扬。 * * * 此外，同日本资金分配格局的长期变化相比，短期的恐慌将会相形见绌。日本公司在美国和欧洲拥有大笔投资，最终它们会抽回这些投资，将注意力转向国内，舔干净伤口，修复它们的工厂，支撑它们的股票。这意味着什么？ 对亚历山大来说，这意味着应该买入日元。因为日本人将会卖出美元、法郎、马克和英镑，而买入日元。这样一来，日元就会升值，因为不光日本人在买，外国投机者最后也会发现日本人在买，他们会加入抢购的行列。如果地震以后日元猛烈贬值，这只会让亚历山大信心倍增，他最喜欢别出心裁了。另一方面，如果日元升上来，他反而会抛掉它们。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 202 | Location 3042-3046 | Added on Thursday, 11 June 2026 12:21:25
+
+从长期来看，市场的走向当然是服从基本经济规律的——如果美国贸易持续逆差，美元最终会贬值，但在短期内，货币的流动就不那么有理性了。恐惧是货币流动的主要诱因，此外，还有贪婪。通过观察周围的货币运动，我逐渐开始预期它的下一次运动方向，赶在下一次浪头打过来之前将我负责的500亿美元中的若干部分调度到位。
+==========
+说谎者的扑克牌：华尔街的投资游戏：畅销版 ([美]迈克尔·刘易斯) (Z-Library) ([美]迈克尔·刘易斯)
+- Your Highlight on page 215 | Location 3235-3239 | Added on Thursday, 11 June 2026 17:32:40
+
+艺术史学位不是白得的。我了解各种各样的欺诈伎俩。请问，当画家发现竞争对手偷走了自己的作品署上他的名字后会怎样做？他会再画一张复制品，并且要求这位对手同样做一遍。这，就是我的打算。两者当然并不完全一样，在大多数人的眼里，仿造保证单比仿造伦勃朗，或仿造波洛克容易得多。但是，我不必证明他是一个彻头彻尾的假冒者，我的打算只是让别人对他起疑心。机会主义者一再声称自己是保证单业务的唯一设计者，如果我能破坏这一点，那么，在某种程度上，也就破坏了他的信誉。
+==========
+大脑喜欢听你这样说 ([澳] 杰瑞德·库尼·霍瓦斯) (z-library.sk, 1lib.sk, z-lib.sk) (杰瑞德·库尼·霍瓦斯)
+- Your Highlight on page 21 | Location 176-180 | Added on Saturday, 13 June 2026 21:31:47
+
+为什么无声阅读会激活大脑中掌管语言的区域呢？很简单：我们根本没有完成从大声朗读到无声阅读的历史性转变，我们只是把语言表达过程从声带转移到了大脑里。换句话说，大脑处理无声阅读的方式和处理大声朗读的方式几乎完全相同。因此，在阅读的同时听人说话和同时听两个人说话是一样的，是不可能做到的！
+==========
+大脑喜欢听你这样说 ([澳] 杰瑞德·库尼·霍瓦斯) (z-library.sk, 1lib.sk, z-lib.sk) (杰瑞德·库尼·霍瓦斯)
+- Your Highlight on page 23 | Location 194-196 | Added on Saturday, 13 June 2026 21:32:34
+
+对演讲者、教师和教练的启示 1．幻灯片上不放（或尽量少放）文字
+==========
+大脑喜欢听你这样说 ([澳] 杰瑞德·库尼·霍瓦斯) (z-library.sk, 1lib.sk, z-lib.sk) (杰瑞德·库尼·霍瓦斯)
+- Your Highlight on page 25 | Location 218-222 | Added on Saturday, 13 June 2026 21:34:00
+
+一个人平均每分钟能说出130个英文单词，却能阅读220个英文单词，经过训练的人每分钟能读完1000个英文单词（这意味着有些人读完本章的速度比泡好一杯茶更快）。 因此，当听众遇到幻灯片上的文字和口头内容一样的情况时，他们会倾向于提前阅读或脱离讲解者的顺序阅读。一旦出现这种情况，我们就又回到了老路上：无声阅读的文字和口头表达的内容互相冲突，进而遇到瓶颈。
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 2 | Location 5-5 | Added on Sunday, 14 June 2026 21:26:03
+
+CONTENTS
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 22 | Location 228-229 | Added on Sunday, 14 June 2026 21:49:07
+
+Kullamägi was blatantly honest in discussing his losses and mistakes. He also seemed relatively ego-free, crediting others for his trading strategies and everything else he learned about trading.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 22 | Location 228-230 | Added on Sunday, 14 June 2026 21:49:10
+
+Kullamägi was blatantly honest in discussing his losses and mistakes. He also seemed relatively ego-free, crediting others for his trading strategies and everything else he learned about trading. In his own words, “I haven’t invented anything.” ______________
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 22 | Location 228-229 | Added on Sunday, 14 June 2026 21:49:13
+
+Kullamägi was blatantly honest in discussing his losses and mistakes. He also seemed relatively ego-free, crediting others for his trading strategies and everything else he learned about trading. In his own words, “I haven’t invented anything.”
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 28 | Location 314-315 | Added on Monday, 15 June 2026 12:40:25
+
+In an A+ setup, the stock is up three or four days in a row with a total gain of at least 300%. The number of days is very important. I never go short on day one, no matter how much the stock is up. I’ve seen stocks go up 1,000% in one day. I rarely short on day two.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 28 | Location 314-317 | Added on Monday, 15 June 2026 12:40:31
+
+In an A+ setup, the stock is up three or four days in a row with a total gain of at least 300%. The number of days is very important. I never go short on day one, no matter how much the stock is up. I’ve seen stocks go up 1,000% in one day. I rarely short on day two. I usually wait for that third or fourth day. If you go short too early, you can end up with multiple mid-size losses. Then, when you finally nail it, you just end up making back previous losses.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 29 | Location 325-332 | Added on Monday, 15 June 2026 12:48:58
+
+The three ingredients for an episodic pivot are a major news item, a big gap up, and a huge increase in volume. When all three conditions are met, a stock can experience an explosive price move, especially in a bull market environment. How do you spot episodic pivot trade opportunities? The easiest way is to run a daily scan. I look for stocks up at least 10% on high volume. Ninety-nine percent of the stocks that come up in this type of screen will not be of interest, either because they don’t have news or because they are just not the right type of stock. I’m not going to buy a utility stock. It needs to be a stock that can make a big move. The best sectors for episodic pivot trades are technology, biotech, and small caps in general. Sometimes, these moves will be related to a sector, like when quantum computing stocks became hot.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 31 | Location 354-357 | Added on Monday, 15 June 2026 12:57:37
+
+The best episodic pivot trade is a neglected stock. Ideally, you want a stock that has been going sideways for a long time—months, even years—and then suddenly, it has 10 times its average daily volume. You don’t want a stock that has already been up a lot in a short amount of time.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 31 | Location 351-353 | Added on Monday, 15 June 2026 12:57:43
+
+When you get a theme, it’s not usually only one stock; traders will typically identify multiple stocks. Usually, one or two are leaders, and the rest are laggards. The leaders start moving, and then traders start chasing the laggards.
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 410-414 | Added on Monday, 15 June 2026 16:45:32
+
+作为一个新生国家，美国没有那些古老社会里难以消除的特权对生产力的束缚。有人曾经估算过，在大革命爆发前的法国，如果一个人要从法国的鲁昂运货到马赛（尽管现实中永远不会有人愿意这样做），他将不得不缴纳多达50种以上的税赋，这些征税权是由王室一次一次地分别授予各地贵族和领主的。1787年的美国立宪大会，使得美国有机会成为一个巨大的共同市场，而美国也确实做到了这一点——美国从建国之初就禁止对货物的跨州流通征收任何税赋或是设置其他限制。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 1642-1646 | Added on Tuesday, 16 June 2026 17:10:37
+
+19世纪余下的美国经济政治史，都不可避免地涉及这个国家如何学习管理、监管以及公平分配铁路这一新兴事物所带来的巨大利益，但首先需要做的是开拓新的融资方式以获得修建铁路的资金。建设铁路的费用相比于运河开挖要便宜得多，但还是不可能由个人和家庭来承担，而在19世纪以前，大部分企业都是通过个人和家庭来融资的。铁路业不仅是资本密集型行业，而且在铁路发展初期也无人能够准确地把握它的前景。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 1977-1979 | Added on Tuesday, 16 June 2026 20:34:36
+
+中国有句古话：战争是由银子堆出来的。虽然单场战役的胜利与否取决于战斗时使用的策略、火力、勇气和运气，但从长远看，战争的最终胜利几乎总是属于那些能够将其经济实力有效转化为军事实力的一方
+==========
+The Notebook A History of Thinking on Paper (Roland Allen) (Z-Library) (Roland Allen)
+- Your Highlight on page 60 | Location 592-595 | Added on Wednesday, 17 June 2026 21:45:59
+
+Before paper, if you wanted to draw in western Europe, it helped to be born male and then take a vow of chastity, for parchment and ink were most often the preserve of clerics whose duty was to glorify the Word of God, not to waste expensive materials on merely personal impulses. These clerics, and the lay scribes who gathered around the first universities,
+==========
+The Notebook A History of Thinking on Paper (Roland Allen) (Z-Library) (Roland Allen)
+- Your Highlight on page 60 | Location 592-594 | Added on Wednesday, 17 June 2026 21:46:05
+
+Before paper, if you wanted to draw in western Europe, it helped to be born male and then take a vow of chastity, for parchment and ink were most often the preserve of clerics whose duty was to glorify the Word of God, not to waste expensive materials on merely personal impulses.
+==========
+The Notebook A History of Thinking on Paper (Roland Allen) (Z-Library) (Roland Allen)
+- Your Highlight on page 62 | Location 619-623 | Added on Wednesday, 17 June 2026 21:55:48
+
+Hundreds of years later, David Hockney would stress, with his characteristic directness, the importance of this process of reception and transmission: In one gallery they actually had a notice which said, ‘No Sketching.’ How obnoxious! I said, ‘How do you think these things got on the walls if there was no sketching?’ Hockney’s telling point is that it is not enough merely to look at a work: if an artist wants to learn from it, they need to make their own record of it, and in doing so, come to fathom it better. This is how art lives and grows.
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 3067-3070 | Added on Friday, 19 June 2026 17:41:23
+
+星期六上午11点，纽约证券交易所宣布无限期休市，这在其历史上是第一次。格兰特总统、财政部部长和其他政府高级官员一起从华盛顿来到纽约，与纽约金融巨头一起商讨解决的办法。范德比尔特告诉他们这次崩溃的原因在于铁路的过度扩张，而这种扩张所用的资金大部分来自发行联邦债券，他对媒体说：“用公众的钱修建一条从一个无名小镇通向另一个无名小镇的铁路，这无异于公然犯罪。”
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 3091-3093 | Added on Friday, 19 June 2026 17:42:15
+
+有的人却以吝啬和爱财如命留名青史，如海蒂·格林，但是，这样一位彻头彻尾的守财奴却同时是一位出色的投资家，在股市的惊涛骇浪中游刃有余，她说：“你需要做的就是低买高卖”……
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 3126-3135 | Added on Friday, 19 June 2026 17:46:18
+
+尽管资本主义经济周期中的衰退期令人痛苦，但它自有它的益处。其中之一就是那些等不及看到美国经济复苏的欧洲投资者开始大量抛售手中持有的美国证券。1873～1879年，欧洲人手中的美国证券资产价值总值下降了6亿美元，单单铁路证券一项就减少了2.51亿美元。这虽然进一步加剧了华尔街市场证券价格的下跌，但实际上增加了美国人的财富。当欧洲人出资修建美国铁路时，美国建成了自己的交通大动脉，而欧洲人持有这些铁路的证券，他们本来可以获得这些证券的利息和其他收益。但在这些利息和收益兑现之前，欧洲人就在华尔街上把这些证券卖掉了，而美国人以比原来低得多的价格把这些证券又买到了手。结果，美国既修成了铁路，又拥有了这些证券。 可是当美国经济的巨大发动机重新运转起来的时候，欧洲投资者又会回来重新购买美国证券。这种现象并不是19世纪所特有的。向上可以追溯到殖民地时期，当时很多欧洲人在新大陆投资建立合资公司，随后，这些公司又很快破产；向下一直延续到20世纪80年代末期，过度自信的日本人以市场最高价购买了诸如洛克菲勒中心这样的美国标志性地产，随后又在遭受巨大损失之后失去了它们
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 3112-3114 | Added on Friday, 19 June 2026 17:46:52
+
+她依靠投资股市而致富，在她“低买高卖”投资致富的同时，她对上市公司进行了研究、筛选和判断，客观上推动了社会资金的流转。当股市中成千上万的人这样做的时候，全社会的金融资源便得到了更高效率的配置，从而推动经济不断向前发展
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 3136-3138 | Added on Friday, 19 June 2026 17:47:03
+
+除了牺牲外国投资者的利益造福美国之外，经济萧条还迫使美国公司为了生存而提高运作效率。经济繁荣时期积累下来的泡沫被挤出了经济循环，资源向强者手中聚集。当条件一旦改善、经济重新开始扩张的时候，美国经济体将会有更强的免疫力来应对坏年景
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 3138-3141 | Added on Friday, 19 June 2026 17:47:20
+
+在19世纪70年代大萧条之后，美国经济和美国政治一样，开始显露出一些现代特征。直到1878年的时候，还没有一家以制造业为主的“工业”公司在纽约证券交易所上市。在当时全部54家上市公司中，有36家铁路公司、5家煤矿公司、4家电报公司、4家邮递公司、3家矿业公司、1家蒸汽船公司和1家地产公司。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 3452-3467 | Added on Friday, 19 June 2026 21:36:29
+
+集中于美国东北部地区的工业化给这个地区带来了就业机会和财富，也给所有消费者带来了更加物美价廉的消费品。但是，随之而来的也有许多失败者，资本主义一贯如此。当这个国家在东北部地区的带动下缓慢地回归金本位制，并最终在1879年全面完成的时候，美国南北战争中“绿钞时期”标志性的通货膨胀也开始消退了，取而代之的是漫长的通货紧缩期。1879年，1蒲式耳小麦的价格是1.22美元，但到1890年已经跌到了0.89美元。此时仍然是美国经济基石的农业遭受到巨大损失，农民将矛头对准了金本位制和铁路，许多支线铁路垄断了当地的陆路交通，提高了铁路沿线农民的运输成本。 更糟的是，由于农业经营的特点，农民往往是负债者，他们一般都需要通过按揭购买农场并贷款购买用于农业生产的各种生产资料。通货紧缩意味着他们在还款的时候，要用比借款时更为值钱的美元来偿还贷款，因此美国的农村地区一直在抗争，希望继续使用绿钞，并且要求发行更多的绿钞。 随着货币体制逐步回归到金本位制，美国财政部在1873年开始停止铸造银币。这一政策被称为“1873年的罪恶”（“Crime of 73”），遭到了美国西部和南部地区人们的强烈反感和怨恨，在这些地区，农场主和采矿业者主导着当地的政治。在19世纪70年代中期，这些地区举行了声势浩大的银矿工人罢工，像康斯塔克矿工罢工事件等，要求将白银重新货币化的压力与日俱增。国会作为一个民主机构，试图使矛盾双方都感到满意，于是要求财政部每个月按照市场价格购买200～400万美元的白银，然后按照16∶1的比例将这些白银铸造成银币。也就是说，按照国会这一法令，不管其市场价格怎样，16盎司的白银都相当于1盎司的黄金，这实际上相当于随意增加了国家的货币供给，是“制造”通货膨胀的经典做法。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 4120-4123 | Added on Friday, 19 June 2026 22:11:17
+
+·1914年8月，人们普遍估计全球经济特别是美国经济将迅速崩溃。但事实是，尽管在战争初期美国对欧洲的出口活动受到严重影响，但战争创造了对军需品和农产品的巨大需求，订单源源不断地从欧洲飞向大洋彼岸的美国，这给美国带来了自南北战争以来最大的经济繁荣，而华尔街也在经历了战争刚刚爆发时的短暂恐慌之后，迎来了历史上最大的一次牛市。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 4704-4708 | Added on Saturday, 20 June 2026 11:39:05
+
+像所有大战之后经常出现的情况一样，在20世纪20年代也广泛出现了放纵现象，和美国南北战争结束后的那几年一模一样——暴饮、豪宴、寻求刺激是生活的唯一目的。华尔街从来都是美国社会最精致的缩影，尽管它算不上是美国社会完整和彻底的代表。在华尔街上，人们疯狂地生活着，仿佛在以此庆祝他们在第一次世界大战这样一场人类大灾难中幸运地逃过一劫。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 4708-4712 | Added on Saturday, 20 June 2026 11:39:31
+
+和现在一样，那个时代的记者也偏爱城市，所以几乎没有人注意到美国的农村并没有享受到这次大繁荣。在20世纪的前30年，汽车的普及对汽车工业来说是天大的好事，但是对农民们来说却是一场灾难。在1900年，美国1/3的耕地是为美国数以百万计的马匹和骡子生产饲料的，但是随着汽车取代这些牲畜，越来越多的耕地用于生产粮食。在第一次世界大战期间，粮食的巨大需求造成了一种假象，但到了在20世纪20年代粮食供应激增，而农村的收入却因农产品供过于求而大幅下降
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 5232-5235 | Added on Saturday, 20 June 2026 15:41:42
+
+陷入经济大萧条中的美国再一次被发生在大西洋彼岸的战争所挽救——这一次是第二次世界大战。第一次世界大战的经验证明，无论战争给欧洲和其他地区带来多大的创伤，它都会给大洋彼岸的美国带来巨大利益，所以“二战”的开始并没有像“一战”那样立刻将股市带入低迷。反之，道琼斯指数还略微上涨。但很快，随着希特勒的节节胜利，华尔街开始了长达三年的下跌。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 5239-5242 | Added on Saturday, 20 June 2026 16:22:47
+
+在这个历史时期，有两个人对华尔街的未来影响深远，一位是查尔斯·E·美里尔，一位是本杰明·格雷厄姆。美里尔革命性地将连锁店的运营模式引入经纪业务，并创建了美林公司。而格雷厄姆让此前只知道投机和坐庄的华尔街明白了基本面研究的重要性。 ·1954年，华尔街再一次迎来了长达10年的大牛市。华尔街在滞后多年之后，终于反映了美国实体经济在战时和战后的高速成长。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 5477-5483 | Added on Saturday, 20 June 2026 16:39:18
+
+除了对1929年大危机所产生的恐惧逐年减弱以外，其他两个因素也推动了这轮新的牛市。首先是供求关系，大量涌入的养老基金、共同基金和保险公司的资金总是需要有地方投资，而证券的供应速度远远赶不上需求的增长速度。从1953年到1959年，在纽约证券交易所挂牌交易的股票数目实际上是减少的，从1532只减少到1507只，流通股票总量从32亿股增加到58亿股，而同期股价上涨幅度超过了一倍。 第二个因素是，在很大程度上，资本市场终于反映了实体经济增长的现实。除了很少的几个阶段，美国资本市场一直滞后于迅速发展的战后美国经济，就像一位经济史学家所说的那样：“艾森豪威尔牛市的基石是杜鲁门时期的繁荣。
+==========
+伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版) (约翰·S·戈登)
+- Your Highlight on Location 5624-5628 | Added on Saturday, 20 June 2026 16:44:41
+
+随着华尔街上股票的市值越来越大，监管的力度逐步加强，想要在股票市场进行早期华尔街那种股票囤积几乎成为不可能的事情。但是，商品市场却不然。在20世纪70年代末期，石油巨子亨特兄弟主导的一起白银囤积投机活动再次唤起了人们对于久远历史的记忆。这场轰动全美的操纵案最终以亨特兄弟不可避免的失败而告终，尽管华尔街的许多机构卷入其中，但美国的银行和美联储迅速采取紧急措施，成功地阻止了恐慌的蔓延。
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 33 | Location 381-388 | Added on Saturday, 20 June 2026 21:27:00
+
+What pattern do you look for, and what constitutes a trade signal? It is a purely technical method. If you look at many stocks, especially small caps and mid-caps, when they trend, it looks like a stair-step pattern. They make a move, consolidate in a sideways pattern, and then make another move. You look for a stock in an uptrend that then goes into a sideways consolidation, preferably on reduced volume. You then buy the stock when it breaks out of the consolidation and hold it for three to five days. Would any stock in a consolidation after an uptrend qualify as a candidate for a breakout trade, or are there more restrictive conditions? No, you want to focus on leading stocks. One way to identify those stocks is to scan for the 1% or 2% stocks with the largest upmoves in the past one, three, and six months.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 36 | Location 421-427 | Added on Sunday, 21 June 2026 11:43:24
+
+There are many ways of defining a downtrending or bearish market. I like to use a simple moving average system. Specifically, I use the 10-day and 20-day moving averages. When they are both moving up, the market is in an uptrend. When the 10-day crosses below the 20-day, that’s a sign of caution. The market may be consolidating or turning down. It’s not a perfect method, but it keeps me out of the bad markets 80% of the time and in the good markets 80% of the time. Bonde and many other great traders use a breadth-based model, which is based on the number of stocks up and down by certain percentages over different periods and the number of stocks making new highs and new lows, to indicate when we are in a market dominated by selling pressure (or buying pressure). I don’t pay attention to day-to-day breadth numbers, but I will take notice of extremes in breadth, which may only occur a few times per year.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 39 | Location 469-470 | Added on Sunday, 21 June 2026 11:55:02
+
+I have a database in Evernote where I saved a lot of screenshots of episodic pivots, breakouts, and parabolic shorts. I used to scroll through that collection of charts every month to refresh my memory and reinforce what the best setups looked like.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 47 | Location 566-574 | Added on Sunday, 21 June 2026 12:22:05
+
+You need to find trade setups that have existed for decades or even since the beginning of markets. One good resource is William O’Neill’s book, How to Make Money in Stocks, which contains a section with charts of winning stocks going back to the early 1900s. You have to look at hundreds or even thousands of examples of a setup to fully understand it and build conviction in it. That is the type of research I did. You can’t just take a setup that someone else trades. Because if you start trading a setup you haven’t fully researched, you won’t have conviction in it, and as soon as a trade starts moving against you, you will panic. Finding and researching setups is not enough. You can get good at finding setups, but if you can’t adhere to your stops or don’t understand position sizing, it won’t work out. Many people use systems and methods that work but still lose money because they don’t work for them. The methodology you use not only has to have an edge, but it also has to fit your personality and beliefs.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 55 | Location 676-676 | Added on Monday, 22 June 2026 11:36:53
+
+If you have trading rules that work, resist the urge to go against those rules.
+==========
+How to Make Money in Stocks (McGraw-Hill) (z-library.sk, 1lib.sk, z-lib.sk) (William J. O'Neil)
+- Your Highlight on page v | Location 35-35 | Added on Monday, 22 June 2026 15:33:21
+
+CO NT E NTS • 
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 66 | Location 824-826 | Added on Monday, 22 June 2026 15:53:17
+
+confident you would succeed as a trader at Trillium? I wasn’t confident that I would succeed, but I was highly confident that I would outwork everyone at that firm. That was the only thing I had no doubt about.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 66 | Location 823-826 | Added on Monday, 22 June 2026 15:53:22
+
+Turning down the much higher-paying Bank of Montreal offer and ignoring the advice of mentors, were you that confident you would succeed as a trader at Trillium? I wasn’t confident that I would succeed, but I was highly confident that I would outwork everyone at that firm. That was the only thing I had no doubt about.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 97 | Location 1219-1224 | Added on Tuesday, 23 June 2026 10:37:44
+
+Our human evolutionary psychology drives us to stash acorns. It tells us more acorns are always better because they mean more safety and comfort. That is why when people start to view P&L (profit and loss) and money as their whole identity and scorecard, it’s so hard to leave that game. I know many traders who, by any normal standard, have all the money they will ever need but still feel they can’t stop trading. They’ll say, “What if we get a recession and I lose 50% of my money.” Or “I want to buy this beach house.” They are continually moving the goalposts. I’ve seen people with $50 million still say they don’t have enough money.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 99 | Location 1254-1257 | Added on Tuesday, 23 June 2026 10:48:39
+
+A big chunk of my assets are traditionally invested outside my trading account. I’m a fan of passive indexing in the market and find it critical to minimize taxable events and management fees. My trading assets would mostly go into equity indexes. I also have life insurance, a debt-lending fund investment, a real estate portfolio, and a heavy equipment business. I do the occasional private investment as well. I invested in Reddit before it went public, and I am invested in SpaceX, Equipment Share, and Figure AI.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 109 | Location 1382-1389 | Added on Tuesday, 23 June 2026 11:42:38
+
+One trading concept that can be useful to anyone is how Breitstein utilizes options. The basic idea is that if you want to buy a stock at some price below the market, options provide a more effective means of implementing that position. Instead of entering a good-till-canceled limit buy order at the intended price, you could sell puts at that strike price. If the market declines below that price and the option is exercised, your effective buy price will be better than it would have been with a limit buy order because you will have earned the premium from selling the option. But the real kicker is that if the market doesn’t decline to your intended price, you will earn the premium from the put sale. In either case, you would likely end up better off via the sale of puts than you would have been by using the straightforward buy order in the stock itself. The one exception would be if the market declined below the strike price and then rebounded by more than the premium collected before expiration. A similar concept could be applied to using the sale of calls as an alternative to shorting a stock at an intended sell point above the market.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 120 | Location 1526-1528 | Added on Tuesday, 23 June 2026 12:24:22
+
+Yes, but I was more discerning about which stocks I would short. If there were five stocks with a large upmove that I could short, I would ask myself, “Which one has the stupidest, most meaningless news?” and short that one.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 123 | Location 1567-1568 | Added on Tuesday, 23 June 2026 12:33:46
+
+It was a perfect example that if you don’t use stops, it’s not a matter of whether you will blow up, but when you will.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 124 | Location 1578-1581 | Added on Tuesday, 23 June 2026 15:30:05
+
+I concluded my problem was that I was afraid of discomfort, which for trading meant I was afraid of stopping out and locking in a loss. I decided I needed to break out of my comfort zone in every aspect of my life. I was always a picky eater, and I started choosing the weirdest items on restaurant menus. I was a scrawny, nerdy kid, and I started working out. I was shy, and I started socializing.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 126 | Location 1608-1608 | Added on Tuesday, 23 June 2026 15:33:48
+
+my methodology for the selection process. When I was being rigorous,
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 126 | Location 1608-1608 | Added on Tuesday, 23 June 2026 15:33:52
+
+rigorous,
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 132 | Location 1693-1694 | Added on Tuesday, 23 June 2026 16:10:45
+
+In that type of trade, you want to see total capitulation—volume and price accelerating to stratospheric levels. It’s like a rubber band stretched so far that it has to snap back.
+==========
+Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 135 | Location 1721-1724 | Added on Tuesday, 23 June 2026 16:17:04
+
+from that trade into the fourth quarter, I was very consistent, making over $300,000. I could see that I was a changed trader. I remember thinking, “Wow, this is going to be my breakout year.” The end of the year was absurd. I went from $400,000 to $1 million in the last 60 days. My selection was right, and my execution was amazing. I felt like I was in a flow state. That was the first time in my career when I thought, “OK, this is it; I got it.”
+==========
+Where Wizards Stay Up Late The Origins of the Internet (Katie Hafner  Matthew Lyon) (z-library.sk, 1lib.sk, z-lib.sk) (Katie Hafner)
+- Your Highlight on page 4 | Location 20-21 | Added on Tuesday, 23 June 2026 16:58:07
+
+Prologue
+==========
+The Master Switch_ The Rise and Fall of In - Tim Wu (Tim Wu)
+- Your Highlight on page 6 | Location 20-21 | Added on Tuesday, 23 June 2026 16:58:30
+
+Contents
+==========
+How the Internet Happened From Netscape to the iPhone (Brian McCullough) (z-library.sk, 1lib.sk, z-lib.sk) (Brian McCullough)
+- Your Highlight on Location 24-25 | Added on Tuesday, 23 June 2026 16:58:58
+
+CONTENTS
+==========
+Dealers of Lightning Xerox PARC and the Dawn of the Computer Age (Michael A. Hiltzik) (z-library.sk, 1lib.sk, z-lib.sk) (Michael Hiltzik)
+- Your Highlight on page 3 | Location 7-7 | Added on Tuesday, 23 June 2026 16:59:16
+
+Contents
+==========
