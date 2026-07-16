@@ -88,3 +88,443 @@ Contents
 
 Table of Contents
 ==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 158 | Location 2049-2050 | Added on Wednesday, 1 July 2026 15:54:51
+
+Surfers don’t force waves. They wait and wait until they see the right wave, and then they catch it. Traders should do the same thing.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 158 | Location 2050-2053 | Added on Wednesday, 1 July 2026 15:55:24
+
+The best trades will just show up in front of you. They’re very simple. They will fit all the boxes. In a way, they will look almost too good to be true. You may even think, “Wait, what’s the catch?” But if you know your strategy well enough, you know there is no catch. You’ve been patient and waited for the market to give you a signal before you act.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 160 | Location 2066-2068 | Added on Wednesday, 1 July 2026 15:58:06
+
+A principle that draws from Buddhist, Stoic, and Hindu (Karma Yoga) traditions is: Do everything you should and strive for the best outcome, but your identity and happiness shouldn’t be tied to what happens. As long as you act with integrity and intention, the outcome doesn’t define your worth or peace of mind.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 179 | Location 2310-2324 | Added on Wednesday, 1 July 2026 17:08:00
+
+What exactly was your small-cap shorting strategy? I need to provide some background information first. Companies need cash to stay afloat, and they will raise capital when they need it. For example, let’s say a company has $1 million in working capital and a quarterly burn rate of $500,000. Combining that information, you know the company will need to raise money in the next six months if it wants to stay in business. These companies typically raise capital via secondary offerings,3 and these secondaries tend to be associated with a big gap up in the stock. Typically, secondaries are discounted to the last traded price to incentivize buyers. Why do the small caps gap up? There are only a handful of underwriters in the small-cap space, and they aren’t the big players like JP Morgan or Goldman Sachs. These underwriters acquire the stock (or other financial instruments, such as warrants or convertible bonds) at a low price. They can negotiate very favorable terms because the companies are desperate to raise cash to survive. The underwriters then look to find a way to rally the stock so they can unload their shares at a profit. How do they get the stock to gap up? They issue a press release, which can be recycled old news or completely fabricated. I’ve seen so many fake press releases. Then the stock rallies in pre-market hours, when volume is much lower. Who is buying in the pre-market? It could be the underwriters themselves or retail longs. The stock then gaps sharply higher on the open, allowing the underwriters to sell their shares at a profit.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 181 | Location 2336-2340 | Added on Wednesday, 1 July 2026 17:49:36
+
+I looked for patterns in small-cap stocks that gapped up. For example, a stock that gaps up 50% will typically behave differently than a stock that gaps up 300%. I also studied how stocks behaved based on intraday moves. For example, if a stock opened up 100% and then went sideways for the first hour, what did that typically mean for the next hour or for the rest of the day? If I had a sample of 250 stocks that followed a similar pattern, I would aggregate them to develop an average of what a trading day should look like. These patterns are certainly not foolproof, but they helped me trade with the odds in my favor.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 187 | Location 2419-2425 | Added on Thursday, 2 July 2026 11:05:26
+
+What did you look for after you got the catalyst-driven price burst higher? Once the initial surge happened, I wanted to see the stock consolidate for a while before heading to new highs. Ideally, the stock would trade in the upper 50% of the consolidation before breaking out. Why was the consolidation so important? The consolidation implied that larger institutional players were accumulating the stock after the catalyst, which is important because they exhausted the supply, creating the potential for a huge move higher. Also, short sellers sometimes use lulls in price to short stocks that have run up significantly, and then when the price breaks out on the upside, the shorts get squeezed, causing an explosive move upward.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 189 | Location 2441-2444 | Added on Thursday, 2 July 2026 11:26:45
+
+On the other hand, if a pyramid addition didn’t work as expected in short order, the entire trade would be dead to me, and I would get out. That is where many traders go wrong with pyramiding: they don’t subject additions to an existing position to the same level of scrutiny as they apply to entirely new positions. I believe that treating each addition in my pyramiding as a new trade gave me an advantage.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 189 | Location 2438-2444 | Added on Thursday, 2 July 2026 11:26:53
+
+An important point to stress is that any additions to the initial trade needed to come from setups that I considered independently attractive. I wouldn’t just add to a trade because it was working; there needed to be a second setup that would qualify as an initial setup if I didn’t already have an existing position. Also, the fact that a profitable trade offered another setup indicated that I was on the right track. On the other hand, if a pyramid addition didn’t work as expected in short order, the entire trade would be dead to me, and I would get out. That is where many traders go wrong with pyramiding: they don’t subject additions to an existing position to the same level of scrutiny as they apply to entirely new positions. I believe that treating each addition in my pyramiding as a new trade gave me an advantage.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 189 | Location 2444-2448 | Added on Thursday, 2 July 2026 11:29:20
+
+I typically added an amount where the combined position risked the entire profit up to that point. Specifically, I would add the amount of stock such that if the stop was hit, the loss on the added position would exactly offset the remaining open profits on my prior long position at that point. Essentially, I would risk turning my existing open profits into a scratch trade for the opportunity to generate exponential profits.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 192 | Location 2488-2492 | Added on Thursday, 2 July 2026 11:42:35
+
+My current approach has a lot in common with the methods of Stan Druckenmiller and George Soros: a combination of investing and trading. I try to blend being a contrarian with being a trend follower. I start by visualizing what things will look like in the next year or two. I try to anticipate what the most significant unexpected developments might be because stocks that experience surprises tend to have the biggest moves. I’ve found the best results come from exploring markets or sectors that are out of favor; that’s the contrarian part of my approach.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 218 | Location 2815-2817 | Added on Thursday, 2 July 2026 17:42:58
+
+couple of weeks. When it finally resumed trading, it opened at around $5. My account nearly tripled overnight. It was just unbelievable. It was my first big profitable trade ever. From that moment on, I decided to focus on shorting opportunities in overbought stocks.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:24
+
+wh
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:26
+
+when my 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:28
+
+when my st
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:30
+
+when 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:32
+
+when fub
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:34
+
+when fubo w
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:36
+
+when fubo went 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:38
+
+when fubo went tripl
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:40
+
+when fubo went triple 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:42
+
+when fubo went triple o
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:44
+
+when fubo went triple on my acc
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:46
+
+when fubo went triple on my account
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:52
+
+when fubo went triple on my account, 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:56
+
+when fubo went triple on my account, i did
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:43:58
+
+when fubo went triple on my account, i didn
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:00
+
+when fubo went triple on my account, i didn'
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:02
+
+when fubo went triple on my account, i didn't t
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:04
+
+when fubo went triple on my account, i didn't think
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:06
+
+when fubo went triple on my account, i didn't think i sgou
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:08
+
+when fubo went triple on my account, i didn't think i sgould
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:10
+
+when fubo went triple on my account, i didn't think i shou
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:12
+
+when fubo went triple on my account, i didn't think i should 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:32
+
+when fubo went triple on my account, i didn't think i should stud
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:34
+
+when fubo went triple on my account, i didn't think i should study
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:38
+
+when fubo went triple on my account, i didn't think i should study the pa
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:40
+
+when fubo went triple on my account, i didn't think i should study the pattern
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:44
+
+when fubo went triple on my account, i didn't think i should study the pattern. i 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:46
+
+when fubo went triple on my account, i didn't think i should study the pattern. i sould 
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:48
+
+when fubo went triple on my account, i didn't think i should study the pattern. i sould h
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:50
+
+when fubo went triple on my account, i didn't think i should study the pattern. i sould have kear
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:52
+
+when fubo went triple on my account, i didn't think i should study the pattern. i sould have kearned
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:54
+
+when fubo went triple on my account, i didn't think i should study the pattern. i sould have l
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:56
+
+when fubo went triple on my account, i didn't think i should study the pattern. i sould have learned
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Note on page 218 | Location 2817 | Added on Thursday, 2 July 2026 17:44:58
+
+when fubo went triple on my account, i didn't think i should study the pattern. i sould have learned.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 219 | Location 2836-2841 | Added on Thursday, 2 July 2026 17:47:54
+
+In other words, either the trade works immediately, or you’re out. That’s right. By my senior year, I had several years of experience studying charts, which allowed me to develop an expectation of the price move that should occur based on the historical patterns I had seen in similar charts. If the subsequent price action was inconsistent with my expectations, I typically exited the position. I also had learned lessons during my two years of losing money. I knew that if a stock kept moving up, it could keep going for a long time. So why stay in?
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 220 | Location 2841-2842 | Added on Thursday, 2 July 2026 17:48:17
+
+I learned early on that if my entry is not right, then it’s wrong. I’ve had that perspective throughout my entire 20-year trading career.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 223 | Location 2886-2888 | Added on Thursday, 2 July 2026 17:56:22
+
+When I get into a position, I want it to be green quickly. If I short a stock, and it goes up, and I’m losing money, why the hell would I add to that position? If I’m losing money, it means my entry was wrong, and I’ll get out. I can always get in again later.
+==========
+﻿Trading in the Zone Master the Market with Confidence, Discipline, and a Winning Attitude (Mark Douglas) (z-library.sk, 1lib.sk, z-lib.sk) (Mark Douglas)
+- Your Highlight on page 6 | Location 14-14 | Added on Friday, 3 July 2026 20:54:06
+
+Contents 
+==========
+﻿Naked money  a revealing look at what it is and why it matters (Wheelan, Charles J) (z-library.sk, 1lib.sk, z-lib.sk) (Wheelan, Charles)
+- Your Highlight on Location 3-4 | Added on Sunday, 5 July 2026 16:09:34
+
+Contents
+==========
+﻿Safe Haven _ Investing for Financial Storms - Mark Spitznagel (Mark Spitznagel)
+- Your Highlight on Location 3-3 | Added on Sunday, 5 July 2026 16:09:49
+
+Contents
+==========
+﻿Antifragile Things That Gain from Disorder (Nassim Nicholas Taleb) (z-lib.org) (Rongrong)
+- Your Highlight on Location 16-16 | Added on Sunday, 5 July 2026 16:12:09
+
+Contents
+==========
+﻿The Art of Learning An Inner Journey to Optimal Performance (Josh Waitzkin [Waitzkin, Josh]) (Z-Library) (Josh Waitzkin)
+- Your Highlight on page 12 | Location 106-107 | Added on Sunday, 5 July 2026 16:30:37
+
+learned to dissolve away from attacks while staying rooted to the ground. I found myself calculating less and feeling more,
+==========
+﻿The Art of Learning An Inner Journey to Optimal Performance (Josh Waitzkin [Waitzkin, Josh]) (Z-Library) (Josh Waitzkin)
+- Your Highlight on page 12 | Location 106-107 | Added on Sunday, 5 July 2026 16:30:45
+
+I found myself calculating less and feeling more,
+==========
+﻿The Art of Learning An Inner Journey to Optimal Performance (Josh Waitzkin [Waitzkin, Josh]) (Z-Library) (Josh Waitzkin)
+- Your Highlight on page 13 | Location 117-119 | Added on Sunday, 5 July 2026 16:32:17
+
+I wasn’t calculating with chess notation or thinking about opening variations . . . I was feeling flow, filling space left behind, riding waves like I do at sea or in martial arts. This was wild! I was winning chess games without playing chess.
+==========
+﻿The Goal A Process of Ongoing Improvement (30th anniversary edition) (Eliyahu M. Goldratt, Jeff Cox) (z-library.sk, 1lib.sk, z-lib.sk) (Eliyahu M. Goldratt)
+- Your Highlight on page 7 | Location 26-26 | Added on Monday, 6 July 2026 16:31:16
+
+Contents
+==========
+﻿The Dip (Seth Godin) (z-library.sk, 1lib.sk, z-lib.sk) (Seth Godin)
+- Your Highlight on page 8 | Location 35-36 | Added on Monday, 6 July 2026 16:31:38
+
+Contents
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 230 | Location 2983-2984 | Added on Thursday, 9 July 2026 21:37:23
+
+if you have a big price move on both Thursday and Friday, there is a good chance the move will continue into Monday.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 231 | Location 3000-3002 | Added on Thursday, 9 July 2026 21:43:09
+
+I was down only about $100,000 when I hedged my position. Effectively, by hedging, you locked in that $100,000 loss, but you took all the risk off the table. Absolutely right.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 232 | Location 3005-3007 | Added on Thursday, 9 July 2026 21:43:53
+
+one-day massive crash would be a concern for my short option portfolio. Such an event could cause the loss of my entire account or even more, but it wouldn’t endanger my wealth since I keep only about 10% of my total assets in my trading account.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 232 | Location 3005-3007 | Added on Thursday, 9 July 2026 21:43:58
+
+a one-day massive crash would be a concern for my short option portfolio. Such an event could cause the loss of my entire account or even more, but it wouldn’t endanger my wealth since I keep only about 10% of my total assets in my trading account.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 232 | Location 3013-3015 | Added on Thursday, 9 July 2026 21:45:54
+
+My main goal is to preserve capital. I don’t worry about finding winning setups. For the last 20 years, I’ve always seen them. They may not happen every week or even every month, but they will happen. If I can preserve my capital in the meantime, then I have no doubt that I will make money by the end of the year.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 233 | Location 3020-3022 | Added on Thursday, 9 July 2026 21:47:20
+
+Many people believe that you can’t make money going short in a bull market. The reality is exactly the opposite. In a bear market, you won’t get these extreme overbought shorting opportunities in small-cap stocks. Even though I’m a short seller, a bull market is what I need to provide trading opportunities.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 233 | Location 3020-3025 | Added on Thursday, 9 July 2026 21:47:28
+
+Many people believe that you can’t make money going short in a bull market. The reality is exactly the opposite. In a bear market, you won’t get these extreme overbought shorting opportunities in small-cap stocks. Even though I’m a short seller, a bull market is what I need to provide trading opportunities. Why do you think you have been so successful in trading? It is a combination of having a good appetite for risk and capital preservation. If I see an A+ setup, I have no problem doubling down, tripling down, or even quadrupling down on those setups. But when there are no compelling opportunities, I am focused on preserving capital.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 234 | Location 3045-3046 | Added on Thursday, 9 July 2026 21:51:42
+
+Once you find your specific niche, you need to stay consistent with that approach. In my case, for the first decade or so, my niche was shorting small-cap stocks. I never deviated from that strategy; thus, I was consistent.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 236 | Location 3072-3072 | Added on Thursday, 9 July 2026 22:03:17
+
+you have to find a trading method that fits who you are and what you believe.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 237 | Location 3086-3088 | Added on Thursday, 9 July 2026 22:05:21
+
+I noticed a consistency between Goedeker and Kullamägi (Chapter 1) in that they both said they studied thousands of charts to develop their unique trading styles. The exhaustive study of charts has been the pathway to success for many successful traders.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 240 | Location 3123-3124 | Added on Thursday, 9 July 2026 22:11:14
+
+By betting more on high-probability hands than on low-probability hands, Thorp was able to transform a losing game—even one played with perfect decisions (other than bet size) into a game with a significant positive edge.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 241 | Location 3135-3140 | Added on Thursday, 9 July 2026 22:14:44
+
+Goedeker is uniquely suited to trade an option-selling strategy because quickly exiting losing positions has been a virtually ingrained trait for his entire trading career. Consider, for example, Goedeker’s response to President Trump’s “Liberation Day” announcement. He immediately neutralized his entire short option portfolio on the next day’s opening, locking in a relatively moderate $100,000 loss. Had he hesitated, his loss would have increased more than 10-fold during the next few days. Very few traders will have Goedeker’s risk control skills and instincts, and without those, there would be a significant risk of eventually experiencing an account-destroying loss.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 264 | Location 3434-3436 | Added on Friday, 10 July 2026 12:59:44
+
+I knew some big players were getting carried out on the short May Chicago wheat trade. I figured risk managers around the world were tapping traders on their shoulders, telling them to get out. I determined that the move had mainly been driven by shorts who had been forced out.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 264 | Location 3436-3439 | Added on Friday, 10 July 2026 13:00:02
+
+The key question was: How could I get short without the risk of blowing up? I decided the safest way to express a short bias in wheat was the short May/long July Chicago wheat spread. The March/May spread had gone to -9, which was close to full carry. The cash market was very weak. I expected the May contract would weaken substantially relative to the July contract as it approached expiration.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 264 | Location 3434-3439 | Added on Friday, 10 July 2026 13:00:05
+
+I knew some big players were getting carried out on the short May Chicago wheat trade. I figured risk managers around the world were tapping traders on their shoulders, telling them to get out. I determined that the move had mainly been driven by shorts who had been forced out. I knew I wanted to be short. The key question was: How could I get short without the risk of blowing up? I decided the safest way to express a short bias in wheat was the short May/long July Chicago wheat spread. The March/May spread had gone to -9, which was close to full carry. The cash market was very weak. I expected the May contract would weaken substantially relative to the July contract as it approached expiration.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 265 | Location 3450-3452 | Added on Friday, 10 July 2026 13:01:55
+
+First, I never try to pick a top. I always wait until I feel confident the top is in place before I start selling. Second, I like to add to weakness as the trade goes in my favor. In the case of the wheat trade, I didn’t get to my maximum position until near the end of the move.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 266 | Location 3457-3459 | Added on Friday, 10 July 2026 13:03:11
+
+I don’t use a specific price to exit, I use my conviction in a trade. You have to be willing to incorporate new information and challenge your own assumptions. Charlie Munger said you have to be able to articulate the opposite thesis better than anyone else and know exactly what would cause you to change your mind. If my conviction declines, I get out of some, or all, of a position.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 283 | Location 3690-3692 | Added on Friday, 10 July 2026 21:43:21
+
+Chiu is a strong advocate of focusing on high-conviction trades, avoiding the distraction of small-potato trades, and implementing those trades in large size—a “going-for-the-jugular” philosophy espoused by Stanley Druckenmiller
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 295 | Location 3840-3847 | Added on Saturday, 11 July 2026 19:55:56
+
+One of the things I do is write down different scenarios and think through what the expected impact would be on different markets. For example, currently there is a lot of focus on Trump’s tariffs. What happens if he imposes a 50% tariff on the EU? What does that mean for US bonds? What does that mean for the US stock market? What does it mean for the European stock market? Since a significant portion of my trading involves spreads between markets, I must consider the relative impacts on different markets, not just the directional impacts. I do the same exercise for different possible outcomes. What if the tariff is 20% or 10%? I also conduct similar planning for other scenarios. What is the impact on various markets if China attacks Taiwan or if the Russia-Ukraine war ends? I try to be prepared ahead of time so that when the news breaks, I’m not caught off guard trying to figure things out while the markets are in turmoil. I have already planned my response. I can react instantaneously.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 296 | Location 3850-3858 | Added on Saturday, 11 July 2026 19:57:07
+
+Reviewing my trading every day has been very helpful. At the end of each day, I write a summary of my trading that day. It’s not a P&L accounting, but rather a description of the trades I saw, the trades I took, the results of those trades, the size I put on, how long I was in the trades, and how I handled them. Did I let the trades run as far as I should have? Did I cut trades when I should have? What was my psychology like? Was I panicky? The report serves as a daily reminder to myself of what I need to improve and what I need to work on. I reread it the next morning to remind me of what I need to focus on before I start trading. I will also review these reports at the end of the month, looking for signs of inefficient trading and strategies negatively impacting returns. If my monthly P&L is subpar, these daily reports help me determine whether the issue lies in some deficiencies in my trading or whether I was forcing trades when the markets lacked opportunities. The monthly review also helps me identify areas for improvement in my trading. Do I need to be better at cutting my losses? Take more risk? Take less risk? Change my trading size?
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 317 | Location 4127-4128 | Added on Sunday, 12 July 2026 11:30:59
+
+He believes that introspection, journaling, and reflection are equally important drivers of his achievements.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 329 | Location 4291-4298 | Added on Sunday, 12 July 2026 12:43:02
+
+You have to write things down as they happen, when they are fresh in your memory; otherwise, the process doesn’t work. I record the reasoning behind my trading decisions and conduct a post-trade analysis to identify areas where I can improve. My exact routine changes, but I maintain something called the playbook, which was an idea promoted by Mike Bellafiore, the cofounder of SMB Capital. The playbook is compiled by writing up a summary of the best trade each day. I also maintain an anti-playbook, which records the worst trade each day. All of this information feeds my process and evolution as a trader. Journaling also enables me to focus on my own psychology—how my results affect my mood or attitude, and how that, in turn, impacts subsequent trading. I have read several books on the subject, including Mark Douglas’s Trading in the Zone.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 330 | Location 4299-4304 | Added on Sunday, 12 July 2026 12:51:45
+
+At the end of every week, I review the prior week’s playbooks to identify patterns and determine how I can apply them to improve my trading going forward. I also do a monthly review. The journaling and reviews enable me to set daily, weekly, and monthly goals, which I believe is essential for improving as a trader. Through my process, I am good at setting specific goals and working towards them. These aren’t P&L goals; they are process goals. I often reward myself if I do a good job of working on my goals. This reward might be something as simple as a glass of wine that night, but rewarding efforts to achieve goals is also part of the process.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 337 | Location 4405-4406 | Added on Sunday, 12 July 2026 15:13:08
+
+If CRWV gets to $200, I will have made good profits on my long calls, which will give me breathing room to go short the stock. That would be the “home run” scenario.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 339 | Location 4430-4432 | Added on Sunday, 12 July 2026 15:17:12
+
+The idea is to put myself in a low-risk position if things hit my extreme scenario. If CRWV sees another surge to near $200, I can cover my short puts for a profit and short the stock, using my long calls as protection on the short stock position.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 354 | Location 4630-4631 | Added on Sunday, 12 July 2026 16:21:17
+
+If you only take one point away from this book, make it this one: Cut your losses. Don’t argue, don’t rationalize, don’t hope; just get out.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 355 | Location 4649-4653 | Added on Sunday, 12 July 2026 16:25:18
+
+Soros’s authorized biography by Michael Kaufman is a great read and contains one of my all-time favorite quotes: “Soros has been cutting losses all his life. . . he had always taken risks, but he kept his eye on the exit. In wartime, he had learned from his father that the trick, the real trick was to survive, to move on, to pursue new goals.” The larger point here is that, while it is horrible, Soros was “nurtured” into a loss-cutting mentality at an early age in a way that could never be undone.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 382 | Location 5005-5008 | Added on Tuesday, 14 July 2026 17:19:52
+
+I also tell people that they should try to do something different from what everybody else is doing, because you’re probably not going to gain much of an edge being the millionth person trying to figure out what Jerome Powell and the Federal Reserve are going to do next. Trading without an edge is OK if you’re doing it for entertainment, but it is a losing proposition.
+==========
+﻿Market Wizards The Next Generation The worlds top young traders reveal how they beat the market (Jack D. Schwager, George F. Coyle) (z-library.sk, 1lib.sk, z-lib.sk) (Rongrong)
+- Your Highlight on page 388 | Location 5075-5076 | Added on Tuesday, 14 July 2026 17:27:46
+
+“TOMORROW’S CLOSING PRICES AVAILABLE IN HELL.”
+==========
+﻿How to Make Money in Stocks (McGraw-Hill) (z-library.sk, 1lib.sk, z-lib.sk) (William J. O'Neil)
+- Your Bookmark on page 10 | Location 167 | Added on Wednesday, 15 July 2026 12:27:05
+
+
+==========
+﻿How to Make Money in Stocks (McGraw-Hill) (z-library.sk, 1lib.sk, z-lib.sk) (William J. O'Neil)
+- Your Highlight on page 113 | Location 1141-1142 | Added on Wednesday, 15 July 2026 12:53:07
+
+The “U” area is important because it scares out or wears out the remaining  weak holders and takes other speculators’ attention away from the stock.
+==========
